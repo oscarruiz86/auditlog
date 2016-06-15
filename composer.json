@@ -1,9 +1,8 @@
 {
-    "name": "jandreasn/a-timer",
-    "type": "library",
+    "name": "yokles/cakephp-audit-log",
+    "type": "cakephp-plugins",
     "description": "A simple timer.",
-    "keywords": ["timer", "timing", "benchmark"],
-    "homepage": "http://github.com/jandreasn/a-timer",
+    "homepage": "https://github.com/oscarruiz86/logjajaj/edit/",
     "license": "MIT",
     "authors": [
         {

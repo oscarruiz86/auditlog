@@ -1,7 +1,7 @@
 {
   "name":"yokles/audit-log",
   "version": "1.0.0",
-  "description":"n",
+  "description":"es una prueba jajaja",
   "require":{
 	"php": ">=5.4.16",
     "cakephp/cakephp": "~3.0",
